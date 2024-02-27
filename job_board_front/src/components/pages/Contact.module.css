@@ -1,0 +1,42 @@
+/* Contact.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .heading {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333; /* Change to your desired color */
+  }
+  
+  .description {
+    margin-bottom: 16px;
+    color: #666; /* Change to your desired color */
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc; /* Change to your desired color */
+    border-radius: 4px;
+  }
+  
+  .submit-button {
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #007acc; /* Change to your desired color */
+    color: #fff; /* Change to your desired color */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #005faa; /* Change to your desired color */
+  }
+  
